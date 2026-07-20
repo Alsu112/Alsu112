@@ -11,13 +11,11 @@ Machine Learning Engineer | Applied Mathematics & Physics
 
 ## Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alsu-akhatova&repo=algorithms-practice)](https://github.com/alsu-akhatova/algorithms-practice)
+- 📚 **[Algorithms Practice](https://github.com/alsu-akhatova/algorithms-practice)** — solutions to algorithmic problems in Python.
+- 🎨 **[StyleGAN NADA](https://github.com/alsu-akhatova/stylegan-nada)** — CLIP-guided domain adaptation of StyleGAN.
+- 👁️ **[DLS Computer Vision](https://github.com/alsu-akhatova/dls-computer-vision)** — computer vision assignments and experiments.
+- 🧠 **[Deep Learning MSU](https://github.com/alsu-akhatova/deep-learning-msu)** — deep learning coursework.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alsu-akhatova&repo=stylegan-nada)](https://github.com/alsu-akhatova/stylegan-nada)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alsu-akhatova&repo=dls-computer-vision)](https://github.com/alsu-akhatova/dls-computer-vision)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alsu-akhatova&repo=deep-learning-msu)](https://github.com/alsu-akhatova/deep-learning-msu)
 
 ## Contact
 
