@@ -6,6 +6,7 @@ Machine Learning Engineer | Applied Mathematics & Physics
 
 - 🤖 Machine Learning & Deep Learning
 - 👁️ Computer Vision
+- 💬 Natural Language Processing (NLP)
 - 📊 Probability Theory
 - 💻 Algorithms
 
