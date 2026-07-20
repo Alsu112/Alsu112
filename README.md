@@ -21,4 +21,3 @@ Machine Learning Engineer | Applied Mathematics & Physics
 ## Contact
 
 - Email: akhatova.ad@phystech.edu
-- Telegram: @alsu1311
