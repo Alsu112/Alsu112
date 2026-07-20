@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Akhatova Alsu 👋
 
-<!--
-**Alsu112/alsu112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Engineer | Applied Mathematics & Physics
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Machine Learning & Deep Learning
+- 👁️ Computer Vision
+- 📊 Probability Theory
+- 💻 Algorithms
+
+## Featured Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alsu-akhatova&repo=algorithms-practice)](https://github.com/alsu-akhatova/algorithms-practice)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alsu-akhatova&repo=stylegan-nada)](https://github.com/alsu-akhatova/stylegan-nada)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alsu-akhatova&repo=dls-computer-vision)](https://github.com/alsu-akhatova/dls-computer-vision)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alsu-akhatova&repo=deep-learning-msu)](https://github.com/alsu-akhatova/deep-learning-msu)
+
+## Contact
+
+- Email: akhatova.ad@phystech.edu
+- Telegram: @alsu1311
