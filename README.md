@@ -11,10 +11,10 @@ Machine Learning Engineer | Applied Mathematics & Physics
 
 ## Featured Projects
 
-- 📚 **[Algorithms Practice](https://github.com/alsu-akhatova/algorithms-practice)** — solutions to algorithmic problems in Python.
-- 🎨 **[StyleGAN NADA](https://github.com/alsu-akhatova/stylegan-nada)** — CLIP-guided domain adaptation of StyleGAN.
-- 👁️ **[DLS Computer Vision](https://github.com/alsu-akhatova/dls-computer-vision)** — computer vision assignments and experiments.
-- 🧠 **[Deep Learning MSU](https://github.com/alsu-akhatova/deep-learning-msu)** — deep learning coursework.
+- 📚 **[Algorithms Practice](https://github.com/Alsu112/algorithms-practice)** — solutions to algorithmic problems in Python.
+- 🎨 **[StyleGAN NADA](https://github.com/Alsu112/stylegan-nada)** — CLIP-guided domain adaptation of StyleGAN.
+- 👁️ **[DLS Computer Vision](https://github.com/Alsu112/dls-computer-vision)** — computer vision assignments and experiments.
+- 🧠 **[Deep Learning MSU](https://github.com/Alsu112/deep-learning-msu)** — deep learning coursework.
 
 
 ## Contact
